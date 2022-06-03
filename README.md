@@ -1,1 +1,1 @@
-#Minesweeper, coded in python
+Minesweeper, coded in python
